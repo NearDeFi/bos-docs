@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Access',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Users always have access to all apps with the assurance that the apps are run in a robust and censorship-resistant manner.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Security',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Code is always on-chain, making it auditable and viewable in explorers by anyone.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Composability',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Developers can easily reuse and remix components, with the ability to deploy new front-ends for smart contracts on mainnet in less than 10 minutes.
       </>
     ),
   },

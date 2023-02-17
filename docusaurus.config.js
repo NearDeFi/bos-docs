@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NEAR Social Docs',
-  tagline: 'Developer Documentation',
-  url: 'https://social.near-docs.io',
+  title: 'Blockchain Operating System (BOS)',
+  tagline: 'Frontend without Limits',
+  url: 'https://docs.bos.gg',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'near', // Usually your GitHub org/user name.
-  projectName: 'social-docs', // Usually your repo name.
+  organizationName: 'NearDeFi', // Usually your GitHub org/user name.
+  projectName: 'bos-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/near/social-docs/tree/main/',
+            'https://github.com/NearDeFi/bos-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,7 +65,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Social Docs',
+        title: 'Docs',
         logo: {
           alt: 'NEAR',
           src: 'img/logo.svg',
@@ -82,16 +82,10 @@ const config = {
             type: 'doc',
             docId: 'vm-api',
             position: 'left',
-            label: 'API',
+            label: 'API Reference',
           },
           {
-            type: 'doc',
-            docId: 'tutorial/index',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            href: 'https://github.com/near/social-docs',
+            href: 'https://github.com/NearDeFi/bos-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -104,12 +98,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'NEAR Social',
-                to: '/intro',
+                label: 'BOS',
+                to: '/bos.gg',
               },
               {
-                label: 'NEAR Docs',
-                href: 'https://docs.near.org',
+                label: 'BOS Docs',
+                href: 'https://docs.bos.gg',
               },
             ],
           },
@@ -117,17 +111,9 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/nearprotocol',
-              },
-              {
-                label: 'Discord',
-                href: 'https://near.chat',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                label: 'Telegram',
+                href: 'https://t.me/+ARDO0IPdsr43ZjAx',
+              }
             ],
           },
           {
@@ -135,7 +121,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/near/social-docs',
+                href: 'https://github.com/NearDeFi/bos-docs',
               },
             ],
           },
