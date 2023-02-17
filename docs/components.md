@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # How to Build a Component
 
-### Overview
+## Overview
 
 Components are a fundamental aspect of the Blockchain Operating System, providing a standard unit of software that packages up code and dependencies for rapid and reliable execution. These standalone, lightweight, and reusable components store HTML/CSS/JavaScript code on-chain and can be loaded into gateways for users.
 
@@ -22,20 +22,16 @@ If you are familiar with Git, you are probably familiar with the concept of fork
 #### Deploying
 The source code of each component is stored on-chain. BOS uses the NEAR blockchain underneath. Deployment is easy, with just a few clicks. To deploy a component, you will need a NEAR account and NEAR tokens for the storage deposit. 
 
-### Getting started
+## Getting started
 
-The best way to get started is to fork the Lido component:
+To begin building a component, we recommend following our tutorial as the best way to get started. The first two tutorials listed below are quick and easy ways to get familiar with building with BOS, taking less than 5 minutes each. In addition, the Lido example provides a fully-fledged demonstration of how to interact with a smart contract deployed on the Ethereum mainnet.
 
-* Navigate to [URL] and sign in with your NEAR account
-* Click the menu
-* Select Fork Widget
-* Make any changes in the in-browser editor
-* Click Render preview to see your changes
-* Click Save component when ready to deploy
-* Follow the instructions to finish the deployment (Note: you will need to deposit certain amount of NEAR for the storage cost)
-* Done, your component is now deployed and can be used by anyone
+* [Hello World](Tutorials/hello-world.md)
+* [Hello EthersJS](Tutorials/hello-ethersJS.md)
+* [Hello Lido](Tutorials/hello-lido.md)
 
-### Digging deeper
+
+## Digging deeper
 
 A typical read-only component often includes following elements:
 * Input preparation - this involves retrieving data from properties passed in or from the context object.
@@ -127,3 +123,10 @@ if (!state) {
   }
 }
 ```
+## Next steps
+
+To begin building a component, we recommend following our tutorial as the best way to get started:
+
+* [Hello World](Tutorials/hello-world.md)
+* [Hello EthersJS](Tutorials/hello-ethersJS.md)
+* [Hello Lido](Tutorials/hello-lido.md)
