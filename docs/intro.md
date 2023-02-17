@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Blockchain Operating System
+# Overview
 
 Blockchain Operating System (aka BOS), is a blockchain-based platform-as-a-service for decentralized front-ends. BOS aims to revolutionize the way we develop and interact with decentralized apps. We believe BOS will help achieve the goal of making Web 3.0 more accessible to everyone.
 

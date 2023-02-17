@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How to Build a Component
+# Components
 
 ## Overview
 
