@@ -99,7 +99,7 @@ const config = {
             items: [
               {
                 label: 'BOS',
-                to: '/bos.gg',
+                to: 'https://bos.gg',
               },
               {
                 label: 'BOS Docs',
