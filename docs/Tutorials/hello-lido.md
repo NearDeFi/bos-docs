@@ -293,8 +293,8 @@ return (
 
 1. Navigate to [the component](https://bos.gg/#/mob.near/widget/WidgetSource?src=zavodil.near/widget/Lido)
 2. Click on the menu icon in the top-right corner
-3. Select `Fork widget`
+3. Select `Fork`
 4. Feel free to make any changes 
-5. Click on "Save Widget" to deploy the component 
+5. Click on "Save" to deploy the component 
 
 Please note that to deploy the component, you'll need to sign in with a NEAR account and to make a deposit of a small amount of NEAR for the storage cost. This is because BOS uses the NEAR blockchain as its underneath.
