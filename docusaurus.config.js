@@ -126,7 +126,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} NEAR Protocol.`,
+        copyright: `Copyright © ${new Date().getFullYear()}.`,
       },
       prism: {
         theme: lightCodeTheme,
