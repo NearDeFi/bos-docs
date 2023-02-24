@@ -123,10 +123,17 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/NearDeFi/bos-docs',
               },
+              {
+                label: 'Terms of Use',
+                href: 'https://bos.gg/#/thebos.near/widget/Terms',
+              },
+              {
+                label: 'Privacy Policy',
+                href: 'https://bos.gg/#/thebos.near/widget/Privacy',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}.`,
       },
       prism: {
         theme: lightCodeTheme,
