@@ -9,7 +9,7 @@ Blockchain Operating System (aka BOS), is a blockchain-based protocol for creati
 BOS is based on three pillars: **Gateways, Components, and Blockchains**. 
 
 #### Gateways 
-Gateways make locally-run, decentralized front-ends available to the masses. A gateway is consists a specially designed virtual machine that loads and runs frontends for protocols built on Ethereum, L2s, and other Layer 1s like NEAR. The code for these frontends is stored on the NEAR blockchain. 
+Gateways make locally-run, decentralized front-ends available to the masses. A gateway consists of a specially designed virtual machine that loads and runs frontends for protocols built on Ethereum, L2s, and other Layer 1s like NEAR. The code for these frontends is stored on the NEAR blockchain. 
 
 Examples of gateways include [bos.gg](https://bos.gg), [alpha.near.org](https://alpha.near.org), [near.social](https://near.social), and [Cantopia](https://cantopia.pages.dev).
 
