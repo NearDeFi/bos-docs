@@ -12,7 +12,7 @@ This component is designed to display the account ID of the connected Ethereum w
 const sender = Ethers.send("eth_requestAccounts", [])[0];
 if (!sender) return "Please login first";
 
-return Account: {sender};
+return <p>Account: {sender}</p>;
 
 ```
 
