@@ -28,4 +28,4 @@ It's important to note that BOS is still in its early stages. The official unvei
 * Learn [how to build a component in &lt;10min](./Tutorials/hello-world.md)
 * Learn [more about components](components.md)
 * Check out the [BOS main page (Ethereum)](https://bos.gg)
-* Join [Telegram group](https://t.me/+ARDO0IPdsr43ZjAx) for discussions
+* Join [Telegram group](https://t.me/+mpJSZwsVYz9hODNh) for discussions
